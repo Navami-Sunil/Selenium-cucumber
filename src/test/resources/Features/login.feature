@@ -10,4 +10,4 @@ Then the mail is sent
 
 Examples:
 | mail  | password | 
-| u2003144@rajagiri.edu.in |     navamisunil | 
+| jhdaksj |    kjadsh | 
